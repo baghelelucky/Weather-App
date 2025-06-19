@@ -12,7 +12,8 @@ A modern weather forecast application built with **React** and **OpenWeatherMap 
 ---
 
 ## 📸 Screenshot
-![alt text](web-page-1.png)
+![App Screenshot](./web-page.png)
+
 ---
 
 ## 🚀 Features
@@ -21,7 +22,7 @@ A modern weather forecast application built with **React** and **OpenWeatherMap 
 - 🌡️ Display temperature in °C
 - 💧 Shows humidity and wind speed
 - 🌦️ Weather condition icons
-- 🔄 Auto-fetch weather on load (default city: Akot)
+- 🔄 Auto-fetch weather on load 
 
 ---
 
@@ -33,15 +34,4 @@ A modern weather forecast application built with **React** and **OpenWeatherMap 
 
 ---
 
-## 📦 Setup & Run Locally
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-
-# 2. Install dependencies
-npm install
-
-# 3. Create a .env file
-touch .env

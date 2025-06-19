@@ -4,13 +4,6 @@ A modern weather forecast application built with **React** and **OpenWeatherMap 
 
 ---
 
-## 🔗 Live Demo
-
-**[👉 Click here to view the live app](https://your-deployment-link.vercel.app/)**  
-*(Replace with your Vercel/Netlify link)*
-
----
-
 ## 📸 Screenshot
 ![App Screenshot](./web-page.png)
 
